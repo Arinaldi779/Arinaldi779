@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Arinaldi</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h3 align="center">Developer Pemula Dari Indonesia</h3>
 
 - 🔭 I’m currently studying [PHP & Laravel](https://github.com/Arinaldi779)
 
